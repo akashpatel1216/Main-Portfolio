@@ -138,7 +138,7 @@ Akash Patel
 - Email: akashp1412@gmail.com
 - Phone: 510-509-0467
 - GitHub: [akashp1216](https://github.com/akashp1216)
-- LinkedIn: [akashpatel1216](https://linkedin.com/in/akashpatel1216)
+- LinkedIn: [akashp1216](https://www.linkedin.com/in/akashp1216/)
 
 ## License
 

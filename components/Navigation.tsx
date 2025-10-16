@@ -56,7 +56,7 @@ export default function Navigation() {
             href="mailto:akashp1412@gmail.com"
             className="hidden sm:flex items-center gap-2 bg-gradient-to-r from-primary-600 to-blue-600 text-white px-6 py-2.5 rounded-full hover:shadow-xl hover:shadow-primary-500/30 transition-all transform hover:scale-105 font-medium text-sm"
           >
-            <span>Let's Talk</span>
+            <span>Let&apos;s Talk</span>
             <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
             </svg>

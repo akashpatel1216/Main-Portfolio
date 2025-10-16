@@ -63,6 +63,7 @@ export default function Hero() {
               <div className="relative w-64 h-64 sm:w-80 sm:h-80 lg:w-96 lg:h-96">
                 <div className="absolute inset-0 bg-gradient-to-br from-primary-600 via-blue-600 to-purple-600 rounded-full"></div>
                 <div className="absolute inset-1 bg-white rounded-full overflow-hidden shadow-2xl">
+                  {/* eslint-disable-next-line @next/next/no-img-element */}
                   <img 
                     src="/profile.jpg" 
                     alt="Akash Patel"

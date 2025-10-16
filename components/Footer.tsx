@@ -69,10 +69,10 @@ export default function Footer() {
           {/* Left side - About */}
           <div>
             <h3 className="text-4xl font-bold mb-6 bg-gradient-to-r from-primary-400 via-blue-400 to-purple-400 bg-clip-text text-transparent">
-              Let's Work Together
+              Let&apos;s Work Together
             </h3>
             <p className="text-gray-300 leading-relaxed text-lg mb-8">
-              I'm always interested in hearing about new opportunities, projects, and collaborations. 
+              I&apos;m always interested in hearing about new opportunities, projects, and collaborations. 
               Whether you have a question or just want to say hi, feel free to reach out!
             </p>
             <div className="flex gap-4">

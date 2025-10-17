@@ -114,7 +114,7 @@ export default function Hero() {
                 </a>
                 
                 <a
-                  href="https://github.com/akashp1216"
+                  href="https://github.com/akashpatel1216"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="group flex items-center gap-2 px-8 py-4 bg-white border-2 border-gray-200 text-gray-700 rounded-full hover:border-gray-900 hover:text-gray-900 hover:shadow-xl transition-all transform hover:scale-105 font-medium"
